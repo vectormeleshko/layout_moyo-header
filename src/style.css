@@ -13,7 +13,7 @@ body {
   text-transform: uppercase;
   background-color: #fff;
   align-items: center;
-  padding: 0;
+  padding: 0 50px;
   justify-content: space-between;
   display: flex;
 }
